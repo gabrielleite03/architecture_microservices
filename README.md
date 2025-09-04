@@ -9,6 +9,6 @@
    5. [Rolling Update](/padroes_de_deployment/rolling_update)
    6. [Blue Green](/padroes_de_deployment/blue_green_deployment)
    7. [Canary](/padroes_de_deployment/canary)
-   7. [Shadow Deployment](/padroes_de_deployment/padroes_de_deployment)
+   7. [Shadow Deployment](/padroes_de_deployment/shadow)
 
 
