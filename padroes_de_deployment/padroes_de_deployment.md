@@ -75,5 +75,5 @@ Uso típico: Experimentos de funcionalidades em empresas orientadas a dados (Goo
 3. [Esteira de deploy](/padroes_de_deployment/CICD)
 4. [Full deployment](/padroes_de_deployment/full_deployment)
 5. [Third Example](#third-example)
-4. [`Padrões de Deployment`](/padroes_de_deployment/estrategia_de_deployment)
+4. [`Padrões de Deployment`](/padroes_de_deployment/padroes_de_deployment)
     5. koto
