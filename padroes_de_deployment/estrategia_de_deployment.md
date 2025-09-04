@@ -10,5 +10,5 @@
 - Qual frequência de alterações do source code?
 - Ter duas versões rodando em paralelo pode gerar inconsistência de saídas?
 
-![img.png](img.png)
+![img.png](img/img.png)
 

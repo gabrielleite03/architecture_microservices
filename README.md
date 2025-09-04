@@ -1,10 +1,14 @@
 # archtecture_microservices
 
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [`Padrões de Deployment`](/padroes_de_deployment/estrategia_de_deployment)
-   5. 
+# Arquivos
+5. [Padrões de Deployment](/padroes_de_deployment/padroes_de_deployment)
+   1. [Como definir sua estratégia](/padroes_de_deployment/estrategia_de_deployment)
+   2. [In-Place vs Immutable](/padroes_de_deployment/in-place_deployment_immutable_deployment)
+   3. [Esteira de Deploy](/padroes_de_deployment/CICD)
+   4. [Full Deployment](/padroes_de_deployment/full_deployment)
+   5. [Rolling Update](/padroes_de_deployment/rolling_update)
+   6. [Blue Green](/padroes_de_deployment/blue_green_deployment)
+   7. [Canary](/padroes_de_deployment/canary)
+   7. [Shadow Deployment](/padroes_de_deployment/padroes_de_deployment)
 
 

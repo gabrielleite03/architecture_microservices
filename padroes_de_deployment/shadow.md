@@ -1,0 +1,10 @@
+## Shadow Deployment / Dark Launch / Shadow Testing
+### Teste a nova versão em produção sem afetar os usuários, garantindo segurança e desempenho.
+Como funciona: A nova versão recebe uma cópia do tráfego real (em paralelo), mas não afeta os usuários.
+Vantagens: Permite validar performance e comportamento em produção sem risco.
+Desvantagens: Mais custo, pode ser difícil lidar com volume de tráfego duplicado.
+Uso típico: Testes de performance, migração de bancos de dados, experimentação.
+
+![img_15.png](img/img_15.png)
+
+![img_16.png](img/img_16.png)

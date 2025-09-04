@@ -70,10 +70,9 @@ Uso típico: Experimentos de funcionalidades em empresas orientadas a dados (Goo
 
 
 # Table of Contents
-1. [Como definir sua estratégia](/padroes_de_deployment/estrategia_de_deployment)
-2. [In-Place vs Immutable](/padroes_de_deployment/in-place_deployment_immutable_deployment)
-3. [Esteira de deploy](/padroes_de_deployment/CICD)
-4. [Full deployment](/padroes_de_deployment/full_deployment)
-5. [Third Example](#third-example)
-4. [`Padrões de Deployment`](/padroes_de_deployment/padroes_de_deployment)
-    5. koto
+1. [Como definir sua estratégia](/estrategia_de_deployment)
+2. [In-Place vs Immutable](/in-place_deployment_immutable_deployment)
+3. [Esteira de deploy](/CICD)
+4. [Full deployment](/full_deployment)
+5. [Rolling Update](/rolling_update)
+6. [Padrões de Deployment](/padroes_de_deployment)
