@@ -9,7 +9,7 @@ Uso típico: Serviços críticos onde é necessário validar métricas de negóc
 ![img_14.png](img/img_14.png)
 
 # Arquivos
-5. [Padrões de Deployment](/padroes_de_deployment)
+5. [Padrões de Deployment](/padroes_de_deployment.md)
     1. [Como definir sua estratégia](/estrategia_de_deployment.md)
     2. [In-Place vs Immutable](/in-place_deployment_immutable_deployment.md)
     3. [Esteira de Deploy](/CICD.md)
