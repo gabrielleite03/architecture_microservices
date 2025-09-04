@@ -3,7 +3,10 @@
 ![img_8.png](img/img_8.png)
 
 
-Cria a nova infra e somente depois apagará a anterior.
+Como funciona: Substitui instâncias antigas pela nova versão gradualmente.
+Vantagens: Evita downtime, mais seguro que recriar tudo de uma vez.
+Desvantagens: Se houver bug, parte dos usuários pode ser impactada.
+Uso típico: Deploy padrão em Kubernetes.
 
 ![img_10.png](img/img_10.png)
 
