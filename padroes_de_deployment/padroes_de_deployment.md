@@ -70,12 +70,12 @@ Uso típico: Experimentos de funcionalidades em empresas orientadas a dados (Goo
 
 
 # Arquivos
-5. [Root](./.../README)
-    1. [Como definir sua estratégia](/estrategia_de_deployment)
-    2. [In-Place vs Immutable](/in-place_deployment_immutable_deployment)
-    3. [Esteira de Deploy](/CICD)
-    4. [Full Deployment](/full_deployment)
-    5. [Rolling Update](/rolling_update)
-    6. [Blue Green](/blue_green_deployment)
-    7. [Canary](/canary)
-    7. [Shadow Deployment](/shadow)
+5. [Root](./.../README.md)
+    1. [Como definir sua estratégia](/estrategia_de_deployment.md)
+    2. [In-Place vs Immutable](/in-place_deployment_immutable_deployment.md)
+    3. [Esteira de Deploy](/CICD.md)
+    4. [Full Deployment](/full_deployment.md)
+    5. [Rolling Update](/rolling_update.md)
+    6. [Blue Green](/blue_green_deployment.md)
+    7. [Canary](/canary.md)
+    7. [Shadow Deployment](/shadow.md)
